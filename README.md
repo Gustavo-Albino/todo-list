@@ -6,7 +6,6 @@ Este projeto é um To-Do List desenvolvido em PHP, representando minha primeira 
 ## Funcionalidades
 
 - Adicionar novas tarefas à lista.
-- Marcar tarefas como concluídas.
 - Remover tarefas da lista.
 
 ## Tecnologias Utilizadas
